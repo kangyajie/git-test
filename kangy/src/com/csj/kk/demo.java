@@ -12,5 +12,6 @@ public class demo {
     }
     public void dev(){
         System.out.println("测试冲突");
+        System.out.println("测试冲突222222");
     }
 }
