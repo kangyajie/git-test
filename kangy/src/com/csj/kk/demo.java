@@ -1,6 +1,7 @@
 package com.csj.kk;
 
 public class demo {
+    int c=10;
     public static void main(String[] args) {
         System.out.println("233311111");
         //22222
@@ -12,6 +13,6 @@ public class demo {
     }
     public void dev(){
         System.out.println("测试冲突");
-        System.out.println("测试冲突222222");
+        System.out.println(c);
     }
 }
