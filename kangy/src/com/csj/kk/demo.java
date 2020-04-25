@@ -10,4 +10,7 @@ public class demo {
         int b=9;
         System.out.println(a+b);
     }
+    public void dev(){
+        System.out.println("测试冲突");
+    }
 }
