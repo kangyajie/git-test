@@ -7,6 +7,7 @@ public class demo {
     }
     public void test(){
         int a=10;
-        System.out.println(a);
+        int b=9;
+        System.out.println(a+b);
     }
 }
