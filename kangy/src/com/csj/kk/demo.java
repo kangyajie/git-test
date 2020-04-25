@@ -9,4 +9,7 @@ public class demo {
         int a=10;
         System.out.println(a);
     }
+    public void dev(){
+        System.out.println("测试冲突");
+    }
 }
